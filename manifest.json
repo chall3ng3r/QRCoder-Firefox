@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "QRCoder",
+    "version": "1.0",
+  
+    "description": "Generates QR Code for currently open page.",
+  
+    "icons": {
+      "48": "gfx/qr-coder.png",
+      "96": "gfx/qr-coder-96.png"
+    },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "gfx/qr-coder-32.png",
+        "default_title": "QR Coder",
+        "default_popup": "popup/qrcoder.html"
+      }
+  }

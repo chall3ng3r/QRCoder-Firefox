@@ -3,10 +3,10 @@
     "name": "QRCoder",
     "version": "1.0",
   
-    "description": "Generates QR Code for currently open page.",
+    "description": "Quickly get QR Code for currently open page.",
   
     "icons": {
-      "48": "gfx/qr-coder.png",
+      "48": "gfx/qr-coder-48.png",
       "96": "gfx/qr-coder-96.png"
     },
 

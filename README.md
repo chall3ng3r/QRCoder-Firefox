@@ -5,4 +5,6 @@ My original idea of quickly getting QR code from the currently open page was usi
 
 Now newer versions of browsers don't allow this specifically on mobile devices. So, I finally decided to write my first brower extension. 
 
+Icon by: Freepik from https://www.flaticon.com/ is licensed by http://creativecommons.org/licenses/by/3.0/
+
 ToDo: Add Chrome, Opera and Safari support.

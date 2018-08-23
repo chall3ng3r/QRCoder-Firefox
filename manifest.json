@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "QRCoder",
-    "version": "1.0",
+    "version": "2.0",
   
-    "description": "Quickly get QR Code for currently open page.",
+    "description": "Quickly get QR Code for currently open page. Now using in-browser QR code generator.",
   
     "icons": {
       "48": "gfx/qr-coder-48.png",
